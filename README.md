@@ -33,7 +33,7 @@ python evaluate.py
 The pre-trained models for both the baseline and refined networks can be downloaded [here](https://drive.google.com/open?id=1_vMkamy0zfULW01iWof5zXZOR8cu3Qns)
 
 ## Attention Map Visualization
-For visualization, you can run the visualization/show_attention_map.m using matlab to visulize the attention map. We provide a weight file of a point cloud in /oxford_weights folder.
+For visualization, you can run the ```visualization/show_attention_map.m``` using matlab to visulize the attention map. We provide a weight file of a point cloud in ```oxford_weights``` folder.
 
 To produce the weights of all the point cloud, you can run the following command:
 
