@@ -16,10 +16,10 @@ This work is base on [PointNetVLAD](https://github.com/mikacuy/pointnetvlad) and
 * Sklearn
 For visualization, matlab is also needed.
 
-##Generate pickle files
+## Generate pickle files
 Please refer to [PointNetVLAD](https://github.com/mikacuy/pointnetvlad)
 
-##Training
+## Training
 To train our network, run the following command:
 ```
 python train_pointnetvlad.py
@@ -32,7 +32,7 @@ python evaluate.py
 ## Pre-trained Models
 The pre-trained models for both the baseline and refined networks can be downloaded [here](https://drive.google.com/open?id=1_vMkamy0zfULW01iWof5zXZOR8cu3Qns)
 
-##Attention Map Visualization
+## Attention Map Visualization
 For visualization, you can run the visualization/show_attention_map.m using matlab to visulize the attention map. We provide a weight file of a point cloud in /oxford_weights folder.
 
 To produce the weights of all the point cloud, you can run the following command:
