@@ -5,4 +5,4 @@ PCAN is an attention module for point cloud based retrieval, which can predict t
 point context.
 This work is base on [PointNetVLAD](https://github.com/mikacuy/pointnetvlad) and [Pointnet++](https://github.com/charlesq34/pointnet2)
 
-
+![pic-network](network_architecture.png)
