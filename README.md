@@ -30,7 +30,7 @@ Please refer to [PointNetVLAD](https://github.com/mikacuy/pointnetvlad).
 ## Training
 To train our network, run the following command:
 ```
-python train_pointnetvlad.py
+python train.py
 ```
 To evaluate the model, run the following command:
 ```
