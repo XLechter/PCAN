@@ -25,7 +25,7 @@ For attention map visualization, matlab is also needed.
 The TF operators are included under tf_ops, you need to compile them (check tf_xxx_compile.sh under each ops subfolder) first. Refer to [Pointnet++](https://github.com/charlesq34/pointnet2) for more details.
 
 ## Generate pickle files
-Please refer to [PointNetVLAD](https://github.com/mikacuy/pointnetvlad)
+Please refer to [PointNetVLAD](https://github.com/mikacuy/pointnetvlad).
 
 ## Training
 To train our network, run the following command:
