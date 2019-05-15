@@ -1,6 +1,7 @@
-# PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval (CVPR 2019)
+# PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval
 
 **[PCAN: 3D Attention Map Learning Using Contextual Information for Point Cloud Based Retrieval](https://arxiv.org/abs/1904.09793)** CVPR 2019
+
 Wenxiao Zhang and Chunxia Xiao
 
 Wuhan University
