@@ -39,7 +39,8 @@ To produce the weights of all the point cloud, you can run the following command
 
 python evaluate_save_weights.py
 
-The the weights will be save in .bin files in datasetname_weights folder.
+The the weights will be save in .bin files in ```datasetname_weights``` folder.
+
 If you want to produce the same visualization results of in the paper, please use this [model](https://drive.google.com/open?id=1FqO6C8SWyx9lZFx8Pzah8DOKSYM5_RkA) which is an ealier trained refined model when we submited the paper.
 
-Feel free to contact me if you have any questions. wenxxiao.zhang@hotmail.com
+Feel free to contact me if you have any questions. wenxxiao.zhang@gmail.com
