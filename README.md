@@ -8,7 +8,7 @@ Wuhan University
 ## Introduction
 PCAN is an attention module for point cloud based retrieval, which can predict the significance of each local point feature based on
 point context.
-This work is based on [PointNetVLAD](https://github.com/mikacuy/pointnetvlad) and [Pointnet++](https://github.com/charlesq34/pointnet2)
+This work is based on [PointNetVLAD](https://github.com/mikacuy/pointnetvlad) and [Pointnet++](https://github.com/charlesq34/pointnet2).
 
 ![pic-network](overview.png)
 
@@ -20,6 +20,9 @@ This work is based on [PointNetVLAD](https://github.com/mikacuy/pointnetvlad) an
 * Pandas
 * Sklearn
 For attention map visualization, matlab is also needed.
+
+#### Compile Customized TF Operators
+The TF operators are included under tf_ops, you need to compile them (check tf_xxx_compile.sh under each ops subfolder) first. Refer to [Pointnet++](https://github.com/charlesq34/pointnet2) for more details.
 
 ## Generate pickle files
 Please refer to [PointNetVLAD](https://github.com/mikacuy/pointnetvlad)
