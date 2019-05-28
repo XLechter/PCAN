@@ -19,6 +19,7 @@ This work is based on [PointNetVLAD](https://github.com/mikacuy/pointnetvlad) an
 * Scipy
 * Pandas
 * Sklearn
+
 For attention map visualization, matlab is also needed.
 
 #### Compile Customized TF Operators
