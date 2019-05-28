@@ -54,4 +54,5 @@ You can also use the python lib ```mpl_toolkits.mplot3d``` for visualization.
 
 If you want to produce the same visualization results in the paper, please use this [model](https://drive.google.com/open?id=1FqO6C8SWyx9lZFx8Pzah8DOKSYM5_RkA) which is an earlier trained refined model when we submited the paper.
 
+## Contact
 Feel free to contact me if you have any questions. wenxxiao.zhang@gmail.com
