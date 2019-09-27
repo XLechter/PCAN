@@ -1,10 +1,11 @@
+#This code is taken from Mika's PointnetVLAD
+
 import tensorflow as tf
 import numpy as np
 import math
 import sys
 import os
 
-#Taken from Charles Qi's pointnet code
 import tf_util
 from transform_nets import input_transform_net, feature_transform_net
 from pointnet_util import pointnet_sa_module, pointnet_fp_module, pointnet_sa_module_msg
