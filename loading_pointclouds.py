@@ -1,3 +1,4 @@
+#This code is taken from Mika's PointnetVLAD
 import os
 import pickle
 import numpy as np
