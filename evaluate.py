@@ -27,22 +27,6 @@ parser.add_argument('--logdir', default='models', help='Log dir [default: log]')
 FLAGS = parser.parse_args()
 RESULTS_FOLDER="results/"
 
-#final 3_19501
-#
-#
-#
-#
-
-#14_15001
-
-#in paper normal/model19_15101.ckpt   1116/2_27001
-
-#15101
-#oxford 83.81
-#university 79.05
-#residential 71.18
-#business 66.82
-
 
 
 #BATCH_SIZE = FLAGS.batch_size
