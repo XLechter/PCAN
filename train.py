@@ -1,3 +1,4 @@
+#This code is taken from Mika's PointnetVLAD
 import argparse
 import math
 import numpy as np
