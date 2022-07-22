@@ -12,6 +12,9 @@ This work is based on [PointNetVLAD](https://github.com/mikacuy/pointnetvlad) an
 
 ![pic-network](overview.png)
 
+## Pytorch Version
+We implement a pytorch version in another [project](https://github.com/XLechter/Rank-PointRetrieval). You can check it if needed.
+
 ## Pre-requisites
 * Python3
 * CUDA
@@ -53,6 +56,18 @@ The the weights will be saved in .bin files in ```datasetname_weights``` folder.
 You can also use the python lib ```mpl_toolkits.mplot3d``` for visualization.
 
 If you want to produce the same visualization results in the paper, please use this [model](https://drive.google.com/open?id=1FqO6C8SWyx9lZFx8Pzah8DOKSYM5_RkA) which is an earlier trained refined model when we submited the paper.
+
+## [Citation]
+If you find our code useful, please cite our paper:
+```bibtex
+@inproceedings{zhang2019pcan,
+  title={PCAN: 3D attention map learning using contextual information for point cloud based retrieval},
+  author={Zhang, Wenxiao and Xiao, Chunxia},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12436--12445},
+  year={2019}
+}
+```
 
 ## Contact
 Feel free to contact me if you have any questions. wenxxiao.zhang@gmail.com
