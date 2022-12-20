@@ -13,7 +13,7 @@ This work is based on [PointNetVLAD](https://github.com/mikacuy/pointnetvlad) an
 ![pic-network](overview.png)
 
 ## Pytorch Version
-We implement a pytorch version in another [project](https://github.com/XLechter/Rank-PointRetrieval). You can check it if needed.
+We implement a pytorch version in another [project](https://github.com/XLechter/Rank-PointRetrieval) in ```models/PCAN.py```. You can check it if needed.
 
 ## Pre-requisites
 * Python3
